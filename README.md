@@ -1,4 +1,4 @@
-# gestao-de-vendas
+# Gestão de vendas
 <b>Projeto de gestão de vendas. </b></br>
 Realizado durante o curso API Rest com Java e Spring Boot do iniciante ao especialista, na Udemy, ministrado pelo professor Luis Eduardo Marques.</br></br>
 
